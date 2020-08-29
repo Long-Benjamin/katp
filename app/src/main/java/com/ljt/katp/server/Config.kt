@@ -1,7 +1,7 @@
 package com.ljt.katp.server
 
 
-const val HTTP_IP = "192.168.0.100"
+const val HTTP_IP = "192.168.51.101"
 const val HTTP_PORT =  8080
 const val HTTP_URL = "http://${HTTP_IP}:${HTTP_PORT}/"
 
